@@ -1,0 +1,7 @@
+apache_logs.db
+logs.db
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
