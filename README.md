@@ -22,7 +22,7 @@ store structured results in SQLite, and visualize insights using Streamlit.
 - Plotly
 
 ## 🌐 Live Demo
-[View Dashboard](PUT_YOUR_STREAMLIT_LINK_HERE)
+https://apache-logs-dashboard-exigihcfvcfl5m2nqsvwtp.streamlit.app/
 
 ## 📁 How to Run Locally
 
